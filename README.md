@@ -7,6 +7,7 @@ This site is designed to serve as an online resume and professional introduction
 ## Features
 
 - **Clean UI/UX** – Modern and responsive design for a professional look on all devices.
+- **Tailwind CSS Styling** – Utility-first CSS framework for fast and consistent design.
 - **Technology Stack Display** – Highlights skills and tools with relevant icons.
 - **About Section** – Personal introduction and career goals.
 - **Projects Showcase** – Portfolio of projects with descriptions and images.
@@ -15,9 +16,9 @@ This site is designed to serve as an online resume and professional introduction
 ## Built With
 
 - **HTML5** – Structure and semantic content.
-- **CSS3** – Styling and responsive layout.
+- **Tailwind CSS** – Utility-first styling and responsive design.
+- **CSS3** – Custom styles for unique design elements.
 - **JavaScript (ES6)** – Interactivity and dynamic elements.
 
 ## Folder Structure
-
 
