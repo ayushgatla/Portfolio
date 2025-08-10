@@ -225,7 +225,7 @@
   width: 90px;
 }
 #git {
-  background-color: azure;
+  background-color:  rgb(22, 102, 38);
 }
 #git:hover {
   background-color: rgb(126, 138, 138);
@@ -254,3 +254,4 @@
 #instagram:hover {
   background-color: rgb(119, 15, 64);
 }
+
