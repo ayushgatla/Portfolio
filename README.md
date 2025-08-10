@@ -1,7 +1,6 @@
 # Portfolio
 # Ayush Gatla’s Personal Portfolio
 
-*(Because “Another Developer” was already taken.)*
 
 ##  Overview
 
