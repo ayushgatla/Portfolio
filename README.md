@@ -1,24 +1,23 @@
 # Portfolio
-# Ayush Gatla’s Personal Portfolio
+# Personal Portfolio Website
 
+A responsive and visually appealing personal portfolio website showcasing skills, projects, and achievements.  
+This site is designed to serve as an online resume and professional introduction.
 
-##  Overview
+## Features
 
-This is my flashy personal portfolio (hosted at [**portfolio-kappa-indol-14.vercel.app**](https://portfolio-kappa-indol-14.vercel.app)) — showcasing my mad HTML/CSS/JavaScript skills, sprinkled with awesome visuals.
+- **Clean UI/UX** – Modern and responsive design for a professional look on all devices.
+- **Technology Stack Display** – Highlights skills and tools with relevant icons.
+- **About Section** – Personal introduction and career goals.
+- **Projects Showcase** – Portfolio of projects with descriptions and images.
+- **Contact Information** – Easy ways to connect via email or social platforms.
 
-##  Features
+## Built With
 
-- **Landing Page**: Bold visuals with background images to slap the viewer awake.
-- **Tech Icons**: Icons for C, C++, Java, Python, Blockchain, After Effects, etc. (I’m basically a one-person DevCon.)
-- **Interactive Sections**: Sections pop, backgrounds shift, and maybe a JS trick or two hides behind.
-- **Responsive Design**: Looks stunning on phone, tablet, and surprisingly on that old laptop someone found in their attic.
+- **HTML5** – Structure and semantic content.
+- **CSS3** – Styling and responsive layout.
+- **JavaScript (ES6)** – Interactivity and dynamic elements.
 
-##  Built With
+## Folder Structure
 
-- HTML – because who doesn’t love markup?
-- CSS – the style wizard behind the curtains.
-- JavaScript – the sprinkle of chaos that makes everything interactive.
-- Bonus: Some *fine* images (jpg, png) for backgrounds, icons, and headshots, because coding only makes sense with visuals.
-
-##  Project Folder Structure
 
